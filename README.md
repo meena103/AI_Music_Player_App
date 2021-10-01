@@ -1,6 +1,6 @@
 # AI-Powered Voice Assistant Flutter Radio App
 
-This is a radio app where you can ask Alan AI to play some music.
+This is a radio app where you can ask Alan AI to play some music. It has voice assistant, can play songs on your voice commands and according to mood.
 
 <p align="center">
   <a href="https://youtu.be/p4xh7zTt6i0" target="_blank">
